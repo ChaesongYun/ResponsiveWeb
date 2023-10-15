@@ -24,12 +24,6 @@
 아래와 자연스럽게 이어지도록 배경에 그라데이션 효과를 주었다.
 
 <br>
-
-![movies](https://github.com/ChaesongYun/ResponsiveWeb/assets/139418987/f12d9823-835d-42b1-8dd7-51eef2833a9d)
-
-<br>
-위대한 쇼맨의 ost This is me 가사의 일부분이다.
-<br>
 <br>
 
 ![musics1](https://github.com/ChaesongYun/ResponsiveWeb/assets/139418987/2daef2f9-f593-4bbb-bb97-ed52cdc7ab3b)
@@ -45,7 +39,6 @@
 ![music2](https://github.com/ChaesongYun/ResponsiveWeb/assets/139418987/136771b2-d9bf-4024-843d-c53b5d29cbb8)
 <br>
 
-계속해서 apple의 광고문구를 적어 보았고<br>
 ~~감성적인 멘트 찾다가 넣어봤다~~<br>
 
 <table>
